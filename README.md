@@ -1,5 +1,5 @@
 # flutter-trial1
-Small project to get used to flutter
+Small project to get used to flutter. The app simply returns an image of a dog when the '+' icon is tapped. The images are stacked to for a scrollable list.
 
 # Dependencies
 1. [Flutter](https://flutter.io/)
